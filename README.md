@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Scalable Web Applications**
 - 🌱 I’m continuously learning **Next.js, TypeScript, and DevOps tools**
 - 💬 Ask me about **MERN Stack, REST APIs, PostgresSql, MongoDB, TailwindCSS, or Clean Code**
-- 📫 Reach me at: [ranaot56@gmail.com](mailto:ranaot56@gmail.com)
+- 📫 Reach me at: <a href="mailto:ranaot56@gmail.com">ranaot56@gmail.com</a>
 - 🌍 Portfolio: [https://my-protfolio-sable.vercel.app/](https://my-protfolio-sable.vercel.app/)
 
 ---
