@@ -4,10 +4,12 @@
 </p>
 
 <h1 align="center">Transforming Ideas into Scalable Web Solutions — I'm <span style="color:#0ea5e9"><b>Md Sohel Rana</b></span></h1>
-<h3 align="center">A Passionate Full Stack Web Developer 🚀</h3>
+<p align="center">🔍 My mission is to build efficient, user-centric web applications that solve real-world problems. I aim to contribute to impactful open-source projects and continuously grow as a developer.
+</p>
+
 
 ---
-8
+
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **Scalable Web Applications**
 - 🌱 I’m continuously learning **Next.js, TypeScript, and DevOps tools**
@@ -53,9 +55,9 @@
 
 | Project Name | Tech Stack | Description |
 |--------------|------------|-------------|
-| **CycleHub** | next.js, Node.js, MongoDB, JWT | A online e-commerce srvices with Admin Panel and Dark Mode |
-| **Eventlyze** | MERN, Tailwind, JWT | Online event management platform with registration, invaitation , and deadlines |
-| **Medicare** | Next.js, JWT, MongoDB | A online e-commerce srvices with Admin Panel and Dark Mode |
+| **[CycleHub](https://github.com/rana5699/assignment-2)** | next.js, Node.js, MongoDB, JWT | A Bicycle Store application built with TypeScript , Express.js , and MongoDB with Mongoose. The app includes special features for product management , order processing , inventory control , and revenue tracking. |
+| **[Eventlyze](https://github.com/rana5699/eventlyze-client)** | Next.js, postgres, Tailwind, JWT | Eventlyze - Event Planner & Participation System, a secure and intuitive web platform designed for creating, managing, and participating in public and private events with optional registration fees. Built with Next.js and Tailwind CSS, the frontend provides a responsive, user-friendly interface that integrates seamlessly with the backend API to deliver a comprehensive event management experience. |
+| **[Medicare](https://github.com/rana5699/next-six-client)** | Next.js, JWT, MongoDB | MedStore is a modern e-commerce application built using providing a seamless shopping experience for medical products. The project follows best practices in performance, accessibility, and scalability. |
 
 👉 Check out my [GitHub Repositories](https://github.com/rana5699?tab=repositories) for more!
 
