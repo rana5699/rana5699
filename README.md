@@ -66,7 +66,7 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sohelrana01/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/sohelrana33/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:ranaot56@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
   <a href="https://my-protfolio-sable.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=for-the-badge" /></a>
   <a href="https://github.com/rana5699"><img src="https://img.shields.io/badge/GitHub-333?logo=github&style=for-the-badge" /></a>
